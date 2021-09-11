@@ -1,14 +1,14 @@
 <template>
-  <HelloWorld msg="Thank you for using our product. We're glad you're with us."/>
+  <MainPage/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import MainPage from './components/MainPage.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    MainPage
   }
 }
 </script>

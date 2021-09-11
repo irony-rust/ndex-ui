@@ -133,13 +133,10 @@
             <a href="" class="me-4 text-reset">
               <i class="fab fa-telegram"></i>
             </a>
-            <a href="" class="me-4 text-reset">
-              <i class="fab fa-twitter"></i>
-            </a>
-            <a href="" class="me-4 text-reset">
+            <a href="https://www.linkedin.com/in/evgeny-ukhanov/" class="me-4 text-reset">
               <i class="fab fa-linkedin"></i>
             </a>
-            <a href="" class="me-4 text-reset">
+            <a href="https://github.com/irony-rust/ndex-ui" class="me-4 text-reset">
               <i class="fab fa-github"></i>
             </a>
           </div>
@@ -168,7 +165,7 @@
               <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
                 <!-- Links -->
                 <h6 class="text-uppercase fw-bold mb-4">
-                  Products
+                  Actions
                 </h6>
                 <p>
                   <a href="#!" class="text-reset">About</a>
@@ -183,7 +180,7 @@
               <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
                 <!-- Links -->
                 <h6 class="text-uppercase fw-bold mb-4">
-                  Useful links
+                  Profile
                 </h6>
                 <p>
                   <a href="#!" class="text-reset">Wallet</a>
@@ -193,9 +190,6 @@
                 </p>
                 <p>
                   <a href="#!" class="text-reset">Settings</a>
-                </p>
-                <p>
-                  <a href="#!" class="text-reset">Help</a>
                 </p>
               </div>
               <!-- Grid column -->
@@ -234,8 +228,7 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped></style>
-<style>
+<style scoped>
 #intro {
   /* Margin to fix overlapping fixed navbar */
   margin-top: 58px;
